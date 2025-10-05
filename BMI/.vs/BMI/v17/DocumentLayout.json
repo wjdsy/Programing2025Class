@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\BMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49899B94-6143-4A7D-B3C5-5D8C3336919D}|BMI\\BMI.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\BMI\\BMI\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49899B94-6143-4A7D-B3C5-5D8C3336919D}|BMI\\BMI.vcxproj|solutionrelative:BMI\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\BMI\\BMI\\FileName.cpp",
+              "RelativeDocumentMoniker": "BMI\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\BMI\\BMI\\FileName.cpp*",
+              "RelativeToolTip": "BMI\\FileName.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-05T11:04:01.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
