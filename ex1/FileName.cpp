@@ -12,14 +12,14 @@ int main(void)
 	double simple_bmi;
 
 	
-	printf("이름, 학번, 키(cm), 몸무게(kg)를 순서대로 한 줄에 입력하세요: ");
+	printf("이름, 학번, 키(cm), 몸무게(kg)를 순서대로 한 줄에 입력하세요: \n");
 
 
 	scanf("%s %d %lf %lf", name, &student_id, &height, &weight);
 
-	double height_m = height_cm / 100.0;
+	double height_m = height / 100.0;
 
-	actual_bmi = weight_kg / (height_m * height_m);
+	simple_bmi = weight / (height_m * height_m);
 	
 	simple_bmi = height * weight;
 
