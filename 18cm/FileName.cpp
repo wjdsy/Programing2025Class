@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// 함수 선언: 센티미터를 미터로 변환
+
 double centi_to_meter(double cm);
 
 int main(void)
