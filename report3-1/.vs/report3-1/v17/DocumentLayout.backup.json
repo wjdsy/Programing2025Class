@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\report3-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D81D04-8C1F-41CE-AAE4-90B0599BB55F}|report3-1\\report3-1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\report3-1\\report3-1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33D81D04-8C1F-41CE-AAE4-90B0599BB55F}|report3-1\\report3-1.vcxproj|solutionrelative:report3-1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\report3-1\\report3-1\\FileName.cpp",
+              "RelativeDocumentMoniker": "report3-1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\report3-1\\report3-1\\FileName.cpp*",
+              "RelativeToolTip": "report3-1\\FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T15:15:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
