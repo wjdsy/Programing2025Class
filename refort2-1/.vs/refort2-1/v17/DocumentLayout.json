@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\refort2-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99FA01A-6708-407A-BF09-8E1C86D194DC}|refort2-1\\refort2-1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\refort2-1\\refort2-1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A99FA01A-6708-407A-BF09-8E1C86D194DC}|refort2-1\\refort2-1.vcxproj|solutionrelative:refort2-1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\refort2-1\\refort2-1\\FileName.cpp",
+              "RelativeDocumentMoniker": "refort2-1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\refort2-1\\refort2-1\\FileName.cpp",
+              "RelativeToolTip": "refort2-1\\FileName.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T10:54:57.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
