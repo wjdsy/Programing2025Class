@@ -14,7 +14,7 @@ int main(void)
 	pnB = &nB;
 
 	swap_pointer(pnA, pnB);
-	//swap_normal(pnA, pnB);
+	//swap_normal(nA, nB);
 
 	printf("before swap:(nA,nB)=(%d, %d)\n", nA, nB);
 	return 0;
