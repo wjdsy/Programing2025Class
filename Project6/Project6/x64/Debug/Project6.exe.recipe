@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>C:\Users\user\Documents\GitHub\Programing2025Class\Project6\x64\Debug\Project6.exe</FullPath>
+=======
+      <FullPath>C:\Users\User\Documents\GitHub\Programing2025Class\Project6\x64\Debug\Project6.exe</FullPath>
+>>>>>>> 7517508c2b1cc84fad7ee23ed8b8c52e9be1d794
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

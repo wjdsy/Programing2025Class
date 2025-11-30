@@ -1,2 +1,7 @@
 ﻿  FileName.cpp
+<<<<<<< HEAD
+FileName.obj : error LNK2019: "void __cdecl swap_pointer(int *,int *)" (?swap_pointer@@YAXPEAH0@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\User\Documents\GitHub\Programing2025Class\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+=======
   Project2.vcxproj -> C:\Users\user\Documents\GitHub\Programing2025Class\Project2\x64\Debug\Project2.exe
+>>>>>>> 440d2ce9a5366c5106e10c50cd4ce10f8d3e4f07
