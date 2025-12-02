@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\reverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3455C566-AB56-48E0-B033-D0A615746CE6}|reverse\\reverse.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\reverse\\reverse\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3455C566-AB56-48E0-B033-D0A615746CE6}|reverse\\reverse.vcxproj|solutionrelative:reverse\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\reverse\\reverse\\FileName.cpp",
+              "RelativeDocumentMoniker": "reverse\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\reverse\\reverse\\FileName.cpp*",
+              "RelativeToolTip": "reverse\\FileName.cpp*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAHsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T16:32:10.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
