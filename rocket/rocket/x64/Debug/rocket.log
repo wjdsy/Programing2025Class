@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(17,44): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(17,27): warning C4244: '초기화 중': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(20,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(22,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(42,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(46,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(48,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\Programing2025Class\rocket\rocket\FileName.cpp(51,27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rocket.vcxproj -> C:\Users\user\Documents\GitHub\Programing2025Class\rocket\x64\Debug\rocket.exe
