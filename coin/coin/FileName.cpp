@@ -5,7 +5,7 @@
 
 // 배열 크기 및 범위 상수 정의
 #define ARRAY_SIZE 100    // 전체 배열 크기 (0 ~ 99)
-#define RANGE_LIMIT 1000  // ⭐ 난수 생성 범위 (0 ~ 999)로 다시 변경
+#define RANGE_LIMIT 1000  // 난수 생성 범위 (0 ~ 999)로 다시 변경
 #define SUB_ARRAY_SIZE 10 // 추출할 정수의 개수
 
 // --- 난수 생성 관련 함수 ---
@@ -97,7 +97,7 @@ int main(void)
 
     while (1)
     {
-        printf("\n⭐ 통계를 계산할 **10개의 정수 범위**를 지정하세요.\n");
+        printf("\n통계를 계산할 **10개의 정수 범위**를 지정하세요.\n");
         printf("시작 인덱스(0부터 시작)는 **0 ~ %d** 사이여야 합니다.\n", MAX_START_INDEX);
 
         printf("시작 인덱스 입력: ");
