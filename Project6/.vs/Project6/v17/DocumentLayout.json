@@ -1,10 +1,21 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\Project6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\main_random_number_generator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CF0C2A-EAC2-4E3C-971C-AD51FF1C4273}|Project6\\Project6.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\Project6\\Project6\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3CF0C2A-EAC2-4E3C-971C-AD51FF1C4273}|Project6\\Project6.vcxproj|solutionrelative:Project6\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programing2025Class\\Project6\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{DEF67F4E-8064-4D70-A79B-257121BEF085}|Project6.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programing2025Class\\Project6\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DEF67F4E-8064-4D70-A79B-257121BEF085}|Project6.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> 7517508c2b1cc84fad7ee23ed8b8c52e9be1d794
     }
   ],
   "DocumentGroupContainers": [
@@ -14,6 +25,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\Project6\\Project6\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project6\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Programing2025Class\\Project6\\Project6\\FileName.cpp",
+              "RelativeToolTip": "Project6\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T15:43:27.411Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_random_number_generator.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\main_random_number_generator.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\main_random_number_generator.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\main_random_number_generator.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\main_random_number_generator.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T15:47:41.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+=======
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -28,6 +73,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-19T00:06:55.043Z",
               "EditorCaption": ""
+>>>>>>> 7517508c2b1cc84fad7ee23ed8b8c52e9be1d794
             }
           ]
         }
