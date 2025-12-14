@@ -26,7 +26,7 @@ int main() {
     double v_ideal;
     double v_chart;
 
-    printf("## R-134a 비체적 계산 프로젝트\n");
+    printf("R-134a 비체적 계산 프로젝트\n");
     printf("입력 조건: P=%.1f MPa, T=%.1f C\n", P_MPa, T_Celcius);
    
     // (a) 이상 기체 방정식 계산 및 출력
@@ -34,7 +34,7 @@ int main() {
     // 수식: v = R * T / P
     v_ideal = (R_CONST * T_K) / P_kPa;
 
-    printf("### (a) 이상 기체 방정식 결과 ###\n");
+    printf("(a) 이상 기체 방정식 결과\n");
     printf("   [수식: v_ideal = R * T / P]\n");
     printf("   - 계산된 비체적 (v_ideal): %.5f m^3/kg\n", v_ideal);
    
