@@ -3,7 +3,7 @@
 
 int main() {
 
-    // 1단계: 상수 및 입력 데이터 정의와 단위 변환
+    //  상수 및 입력 데이터 정의와 단위 변환
   
     // --- 입력 조건 ---
     double P_MPa = 0.9;         // 압력 (MPa)
@@ -59,7 +59,7 @@ int main() {
     printf("   - 비체적 (v_table): %.5f m^3/kg\n", v_table);
     printf("   [설명: R-134a 과열 증기표에서 직접 읽은 값이며, 기준값으로 사용됨]\n");
 
-    // 4단계: 결과 비교 및 분석
+    // 결과 비교 및 분석
     printf("최종 결과 요약\n");
     printf("   (a) 이상 기체: %.5f m^3/kg\n", v_ideal);
     printf("   (b) 압축성 인자: %.5f m^3/kg\n", v_chart);
